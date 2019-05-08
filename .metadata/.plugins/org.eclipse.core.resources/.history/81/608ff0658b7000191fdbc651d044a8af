@@ -1,0 +1,7 @@
+package com.capgemini.movieratingservice.controller;
+
+@RestController
+@RequestMapping("/ratings")
+public class MovieRatingController {
+
+}

@@ -1,0 +1,10 @@
+package com.capgemini.springboot.microserviceforexservice.entity;
+
+import org.springframework.data.jpa.repository.JpaRepository;
+import org.springframework.stereotype.Repository;
+
+@Repository
+public interface ExchangeValueRepository extends JpaRepository<ExchangeValue, Long> {
+
+	  ExchangeValue FindByFromAndTo(String from, String to);
+}

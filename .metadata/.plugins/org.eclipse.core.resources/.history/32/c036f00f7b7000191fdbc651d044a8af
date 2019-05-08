@@ -1,0 +1,5 @@
+package com.capgemini.springbootmicroserviceeurekanamingserver.entity;
+
+public class SpringBootMicroserviceEurekaNamingServerApplication {
+
+}

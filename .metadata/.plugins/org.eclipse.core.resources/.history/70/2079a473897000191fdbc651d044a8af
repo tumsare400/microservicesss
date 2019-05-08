@@ -1,0 +1,6 @@
+package com.capgemini.movieinfoservice.controller;
+
+@RestController
+public class MovieInfoController {
+
+}

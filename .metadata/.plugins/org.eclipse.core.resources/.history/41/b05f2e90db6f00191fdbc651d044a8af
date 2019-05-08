@@ -1,0 +1,5 @@
+package com.capgemini.springboot.microserviceconcurrencyconversion.entity;
+
+public class CurrencyConversionController {
+
+}

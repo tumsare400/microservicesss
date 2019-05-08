@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+	</section>
+	<section name="MavenProjectImportWizardPage">
+		<list key="rootDirectory">
+			<item value="C:\Spring Boot Microservice\movie-rating-service"/>
+			<item value="C:\Spring Boot Microservice\movie-info-service"/>
+			<item value="C:\Spring Boot Microservice\movie-catalog-service"/>
+			<item value="C:\Spring Boot Microservice\spring-boot-microservice-eureka-naming-server"/>
+			<item value="C:\Spring Boot Microservice\spring-boot.microservice-concurrency-conversion"/>
+			<item value="C:\Spring Boot Microservice\spring-boot.microservice-forex-service"/>
+			<item value="C:\microservices\accountservice\account-service-microservices"/>
+			<item value="C:\microservices\BankApp"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+</section>
